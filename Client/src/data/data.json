@@ -1,0 +1,183 @@
+{
+  "Header": {
+    "title": "Hogskoleprovguiden",
+    "paragraph": "Become an expert on the university entrance exam and reach your dream education! Achieve your goal on the university entrance exam as quickly as possible with a proven online education that has helped more than 190,000 students since the start in 2004.You get everything you need to defeat all parts of the college exam.Become a VIP member immediately and reach your dream education as soon as possible!"
+  },
+  "About": {
+    "paragraph": "The university entrance exam is a completely separate path, selection group, into the dream education. It is a test that gives you the opportunity to be admitted to any education you want and with the right preparation, it is quick and easy to achieve any result. Take a look at the short summary below or immerse yourself in the section All about the university entrance exam .",
+    "Why": [
+      "Introduction to the university entrance exam",
+      "The test pass on the university entrance exam",
+      "Preparations for the university entrance exam"
+     
+    ],
+    "Why2": [
+      "Registration for the university entrance exam",
+      "Adaptations of the university entrance examination"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "ExaminationTraning": [
+    {
+      
+      "icon": "fa fa-copy",
+      "name": "Diagnostic Test",
+      "text": "With this test you can test how much your students already know about a given subject or topic. You can use the results of this test to schedule your class. "
+    },
+    {
+      "icon": "fa fa-copy",
+      "name": "Placement Test",
+      "text": "This kind of test can be used to place the student in the appropriate class or level. For example for language classes this is often used prior to starting the class. "
+    },
+    {
+      "icon": "fa fa-copy",
+      "name": "Progress or Achievement Test",
+      "text": "These tests are used to measure progress in a given subject. This will mostly follow a diagnostic test or can be in regular intervals. If you measure regularly you get a better picture of the progress of your students. "
+    },
+    {
+      "icon": "fa fa-copy",
+      "name": "Internal Test",
+      "text": "These are internal tests given by the institution where the student is following classes. "
+    },
+    {
+      "icon": "fa fa-copy",
+      "name": "Objective Test",
+      "text": "Objective test have clear right or wrong answers. All multiple-choice test fall into this group. The students get a pre-defined set of answers to choose the correct answer from. "
+    },
+    {
+      "icon": "fa fa-copy",
+      "name": "Subjective Test",
+      "text": "With this type of tests the maker of the exam has to pass judgement on the answers of the student. Mostly this in the form of free text questions or essays.       "
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Disciplines": [
+    {
+      "icon": "fa fa-laptop",
+      "title": "Computer Science",
+      "text": "Computer Science is the study of computers and computational systems. Unlike electrical and computer engineers, computer scientists deal mostly with software and software systems; this includes their theory, design, development, and application."
+    },
+    {
+      "icon": "fa fa-code",
+      "title": "Software Engeering",
+      "text": "Software engineering is a detailed study of engineering to the design, development and maintenance of software. Software engineering was introduced to address the issues of low-quality software projects. Problems arise when a software generally exceeds timelines, budgets, and reduced levels of quality."
+    },
+    {
+      "icon": "fa fa-pencil",
+      "title": "Graphic Designing",
+      "text": "Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users' specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience."
+    },
+    {
+      "icon": "fa fa-cloud",
+      "title": "Cloud Computing",
+      "text": "Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. Large clouds often have functions distributed over multiple locations, each location being a data center."
+    }
+  ]
+}
